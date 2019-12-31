@@ -1,4 +1,4 @@
-# React Redux Form Handler
+# React Redux Simple Counter w/o Boilerplate
 
 > A simple web application that uses React and Redux to create a simple counter with increment, decrement, and reset features. (No boilerplate setup)
 
